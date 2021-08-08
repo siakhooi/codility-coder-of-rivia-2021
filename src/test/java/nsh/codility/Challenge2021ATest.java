@@ -1,8 +1,8 @@
 package nsh.codility;
 
-class Challenge2021ATest extends AbstractChallenge2021Test {
+class Challenge2021ATest extends AbstractCoderOfRivia2021Test {
 
-	Challenge2021Interface getTestObject() {
-		return new Challenge2021A();
+	CoderOfRivia2021Interface getTestObject() {
+		return new CoderOfRivia2021A();
 	}
 }
