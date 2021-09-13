@@ -5,7 +5,7 @@
 - Difficulty: Medium
 - Given a 3x3 matrix, find the nearest matrix, the sum of whose elements in each row and column is equal.
 - <https://app.codility.com/programmers/challenges/the_coder_of_rivia_2021/>
-- <task-url>
+- <https://app.codility.com/programmers/task/almost_magic_square/>
 
 ## Versions
 
